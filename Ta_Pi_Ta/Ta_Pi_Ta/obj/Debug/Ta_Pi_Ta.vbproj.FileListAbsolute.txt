@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\Visual Studio 2008\Projects\Ta_Pi_Ta\Ta_Pi_Ta\bin\Debug\Ta_Pi_Ta.exe
+C:\Users\estudiante\Documents\Visual Studio 2008\Projects\Ta_Pi_Ta\Ta_Pi_Ta\bin\Debug\Ta_Pi_Ta.pdb
+C:\Users\estudiante\Documents\Visual Studio 2008\Projects\Ta_Pi_Ta\Ta_Pi_Ta\bin\Debug\Ta_Pi_Ta.xml
+C:\Users\estudiante\Documents\Visual Studio 2008\Projects\Ta_Pi_Ta\Ta_Pi_Ta\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\estudiante\Documents\Visual Studio 2008\Projects\Ta_Pi_Ta\Ta_Pi_Ta\obj\Debug\Ta_Pi_Ta.Resources.resources
+C:\Users\estudiante\Documents\Visual Studio 2008\Projects\Ta_Pi_Ta\Ta_Pi_Ta\obj\Debug\Ta_Pi_Ta.vbproj.GenerateResource.Cache
+C:\Users\estudiante\Documents\Visual Studio 2008\Projects\Ta_Pi_Ta\Ta_Pi_Ta\obj\Debug\Ta_Pi_Ta.exe
+C:\Users\estudiante\Documents\Visual Studio 2008\Projects\Ta_Pi_Ta\Ta_Pi_Ta\obj\Debug\Ta_Pi_Ta.xml
+C:\Users\estudiante\Documents\Visual Studio 2008\Projects\Ta_Pi_Ta\Ta_Pi_Ta\obj\Debug\Ta_Pi_Ta.pdb
+C:\Users\estudiante\Documents\Visual Studio 2008\Projects\Ta_Pi_Ta\Ta_Pi_Ta\obj\Debug\Ta_Pi_Ta.Ayuda.resources
+C:\Users\estudiante\Documents\Visual Studio 2008\Projects\Ta_Pi_Ta\Ta_Pi_Ta\obj\Debug\Ta_Pi_Ta.TAPITA.resources
+C:\Users\estudiante\Documents\Visual Studio 2008\Projects\Ta_Pi_Ta\Ta_Pi_Ta\obj\Debug\Ta_Pi_Ta.TAPITAvs1.resources
+C:\Users\estudiante\Documents\Visual Studio 2008\Projects\Ta_Pi_Ta\Ta_Pi_Ta\obj\Debug\Ta_Pi_Ta.TAPITAvsIA.resources
+C:\Users\estudiante\Documents\Visual Studio 2008\Projects\Ta_Pi_Ta\Ta_Pi_Ta\obj\Debug\Ta_Pi_Ta.prueba.resources
